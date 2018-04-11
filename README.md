@@ -1,1 +1,3 @@
 # angular
+
+Concepts on Angular..
