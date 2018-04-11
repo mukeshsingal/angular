@@ -1,3 +1,3 @@
 # angular
 
-Concepts on Angular..
+Learnt concepts on Angular..
