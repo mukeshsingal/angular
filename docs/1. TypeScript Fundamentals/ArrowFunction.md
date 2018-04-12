@@ -5,11 +5,16 @@
 let log = function(message) {
   console.log(message);
 }
+```
 
-/*
-* In TypeScript function can be defined like lemda Expressions.
-* let variable = (parameters) =>{ ... };
-*/
+
+In TypeScript function can be defined like lemda Expressions.
+```typescript
+let variable = (parameters) =>{ //do Something };
+````
+Example.. 
+
+```typescript
 let doLog = (message) => console.log(message);    
 
 ```
