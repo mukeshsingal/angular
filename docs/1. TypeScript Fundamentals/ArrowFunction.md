@@ -1,3 +1,5 @@
+### How to write lembda function in TypeScript
+
 ```typescript
 /* In JavaScript function is defined like this */ 
 let log = function(message) {
@@ -9,4 +11,5 @@ let log = function(message) {
 * let variable = (parameters) =>{ ... };
 */
 let doLog = (message) => console.log(message);    
+
 ```
