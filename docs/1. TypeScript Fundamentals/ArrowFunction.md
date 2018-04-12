@@ -10,7 +10,7 @@ let log = function(message) {
 
 In TypeScript function can be defined like lemda Expressions.
 ```typescript
-let variable = (parameters) =>{ //do Something };
+let variable = (parameters) =>{ /*do Something*/ };
 ````
 Example.. 
 
