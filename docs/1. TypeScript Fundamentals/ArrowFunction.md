@@ -1,10 +1,8 @@
  ### How to Install TypeScript 
 
- ```node 
- npm install -g typescript
- ``` 
+>  npm install -g typescript
 To verify check version of TypeScript compiler 
- ```node
+ ```cmd
  tsc --version
  ```
  Let's create a program `main.ts`
@@ -18,15 +16,15 @@ To verify check version of TypeScript compiler
 
  log(message);
 ```
- node transpile in Javascript using command 
+ Node transpile in Javascript using command 
 
- ```node
+ ```cmd
  tsc main.ts 
  ```
 
  It will convert ts file into js file. Now we can run create js file using node.
 
- ```node
+ ```cmd
  node main.js
  
  ```
