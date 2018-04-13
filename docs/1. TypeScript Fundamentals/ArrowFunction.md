@@ -1,10 +1,11 @@
  ### How to Install TypeScript 
 
 >  npm install -g typescript
+
 To verify check version of TypeScript compiler 
- ```cmd
- tsc --version
- ```
+ 
+ > tsc --version
+ 
  Let's create a program `main.ts`
 
  ```typescript
@@ -18,20 +19,15 @@ To verify check version of TypeScript compiler
 ```
  Node transpile in Javascript using command 
 
- ```cmd
- tsc main.ts 
- ```
+
+> tsc main.ts 
+
 
  It will convert ts file into js file. Now we can run create js file using node.
 
- ```cmd
- node main.js
+
+>  node main.js
  
- ```
-
-
-
-
 ### How to write lembda function in TypeScript
 
 ```typescript
