@@ -17,7 +17,7 @@ To verify check version of TypeScript compiler
 
  log(message);
 ```
- Node transpile in Javascript using command 
+ Typescript compiler transpile typescript to Javascript using command 
 
 
 > tsc main.ts 
